@@ -1,0 +1,25 @@
+.main{
+    position: relative;
+    border: none;
+    z-index: 1;
+}
+@media screen and (max-width:991px) {
+    .main{
+        display: block;
+    }
+}
+@media screen and (max-width:768px) {
+    .main{
+        display: block;
+    }
+}
+@media screen and (max-width:576px) {
+    .main{
+        display: block;
+    }
+}
+@media screen and (max-width:320px) {
+    .main{
+        display: block;
+    }
+}
